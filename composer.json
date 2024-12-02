@@ -10,7 +10,8 @@
         "laravel/framework": "^11.31",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
-        "spatie/laravel-data": "^4.11"
+        "prettus/l5-repository": "^2.9",
+        "wendelladriel/laravel-validated-dto": "^3.10"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
@@ -20,7 +21,8 @@
         "mockery/mockery": "^1.6",
         "nunomaduro/collision": "^8.1",
         "pestphp/pest": "^3.5",
-        "pestphp/pest-plugin-laravel": "^3.0"
+        "pestphp/pest-plugin-laravel": "^3.0",
+        "timwassenburg/laravel-service-generator": "^1.0"
     },
     "autoload": {
         "psr-4": {
