@@ -22,7 +22,6 @@
         "nunomaduro/collision": "^8.1",
         "pestphp/pest": "^3.5",
         "pestphp/pest-plugin-laravel": "^3.0",
-        "timwassenburg/laravel-repository-generator": "^1.0",
         "timwassenburg/laravel-service-generator": "^1.0"
     },
     "autoload": {

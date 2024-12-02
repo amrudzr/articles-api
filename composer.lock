@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "13996e7d3c7bb8ccb7c5c9d1a432e61e",
+    "content-hash": "9e0cbaf15046db28c4b5dc86ff5fa7d4",
     "packages": [
         {
             "name": "amphp/amp",
@@ -10406,63 +10406,6 @@
                 }
             ],
             "time": "2024-03-03T12:36:25+00:00"
-        },
-        {
-            "name": "timwassenburg/laravel-repository-generator",
-            "version": "v1.0.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/timwassenburg/laravel-repository-generator.git",
-                "reference": "05e0688b4a7070749f10a9f4af9510c7bca47c33"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/timwassenburg/laravel-repository-generator/zipball/05e0688b4a7070749f10a9f4af9510c7bca47c33",
-                "reference": "05e0688b4a7070749f10a9f4af9510c7bca47c33",
-                "shasum": ""
-            },
-            "require-dev": {
-                "laravel/pint": "^1.10",
-                "nunomaduro/larastan": "^2.0",
-                "orchestra/testbench": "^8.5",
-                "pestphp/pest": "^2.5"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "TimWassenburg\\RepositoryGenerator\\RepositoryGeneratorServiceProvider"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "TimWassenburg\\RepositoryGenerator\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Tim Wassenburg"
-                }
-            ],
-            "description": "Generate Laravel repositories",
-            "homepage": "https://github.com/timwassenburg/laravel-repository-generator",
-            "keywords": [
-                "artisan",
-                "cli",
-                "generator",
-                "laravel",
-                "php"
-            ],
-            "support": {
-                "issues": "https://github.com/timwassenburg/laravel-repository-generator/issues",
-                "source": "https://github.com/timwassenburg/laravel-repository-generator/tree/v1.0.3"
-            },
-            "time": "2023-04-27T11:06:12+00:00"
         },
         {
             "name": "timwassenburg/laravel-service-generator",
