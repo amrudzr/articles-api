@@ -10,7 +10,6 @@
         "laravel/framework": "^11.31",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
-        "prettus/l5-repository": "^2.9",
         "spatie/laravel-data": "^4.11",
         "wendelladriel/laravel-validated-dto": "^3.10"
     },
@@ -23,6 +22,7 @@
         "nunomaduro/collision": "^8.1",
         "pestphp/pest": "^3.5",
         "pestphp/pest-plugin-laravel": "^3.0",
+        "timwassenburg/laravel-repository-generator": "^1.0",
         "timwassenburg/laravel-service-generator": "^1.0"
     },
     "autoload": {
